@@ -1,5 +1,3 @@
-Cody Rushing
-Computer Scientist at UT Austin
 starship006.github.io
 
 <!---
