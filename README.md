@@ -1,5 +1,5 @@
 <h1> go check out my website at: 
-<a href=starship006.github.io">starship006.github.io</a></h1>
+<a href="https://starship006.github.io" target="_blank" rel="noopener noreferrer"> starship006.github.io </a> </h1>
 
 
 
